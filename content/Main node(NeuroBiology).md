@@ -1,6 +1,3 @@
----
-title: My Neuro Biology Notes
----
 
 **Introduction:**
 The lecture explores the concept of locked-in syndrome through the experience of Jean Dominique Bauby, shedding light on the four basic functions of the brain and the central nervous system.
