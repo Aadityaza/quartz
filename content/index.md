@@ -1,4 +1,4 @@
 ---
-title: My Neuro Biology Notes
+title: My Notes
 ---
-[[Main node(NeuroBiology)]]
+**Neurobiology notes**[[Main node(NeuroBiology)]]
