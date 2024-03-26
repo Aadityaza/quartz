@@ -54,4 +54,7 @@ Key Ideas:
    - The next segment will explore [[brain tumors]], shifting the focus to disorders affecting the CNS.
 
   - ![[Pasted image 20240215150313.png]]
-  - 
+
+
+
+[[CNS Regional Functions]]
