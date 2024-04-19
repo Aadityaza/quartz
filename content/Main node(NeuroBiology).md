@@ -80,4 +80,8 @@ The forebrain is primarily responsible for higher cognitive functions, while the
 [[Flat Schematics of the Brain]]
 [[Brain Lesions]]
 [[Blood Supply to Brain]]
+
 [[Perception and Vision]]
+[[Hearing]]
+[[Vestibular system]]
+[[Voluntary Movement]]

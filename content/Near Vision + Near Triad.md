@@ -1,4 +1,3 @@
-## Lecture Notes: Near Vision and the Near Triad
 
 **Focusing on Near Objects**
 
