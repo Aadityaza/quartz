@@ -1,0 +1,4 @@
+- Weber's Law, formulated by German physiologist Ernst Heinrich Weber in the 19th century, describes the relationship between the magnitude of a physical stimulus and the perception of change in that stimulus. 
+- Essentially, the law states that the just noticeable difference (JND) between two stimuli is proportional to the magnitude of the stimuli. 
+- In simpler terms, the more intense the stimulus, the larger the change needed for a person to notice the difference. 
+- This law has applications in various fields, including psychology, marketing, and economics, helping to understand how humans perceive differences in stimuli such as weight, brightness, or sound.
